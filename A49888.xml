@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pastoral letter of the Lord Cardinal Le Camus, bishop and Prince of Grenoble to the curats of his diocess touching the methods they ought to take, and in what manner they should behave themselves towards their new converts : faithfully translated from the original in French.</title>
+            <author>Le Camus, Etienne, 1632-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49888</idno>
+            <idno type="STC">Wing L806</idno>
+            <idno type="STC">ESTC R11622</idno>
+            <idno type="EEBO-CITATION">12715546</idno>
+            <idno type="OCLC">ocm 12715546</idno>
+            <idno type="VID">66178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66178)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 986:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pastoral letter of the Lord Cardinal Le Camus, bishop and Prince of Grenoble to the curats of his diocess touching the methods they ought to take, and in what manner they should behave themselves towards their new converts : faithfully translated from the original in French.</title>
+                  <author>Le Camus, Etienne, 1632-1707.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nath. Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Converts --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66178:1"/>
+            <!-- PDF PAGE 15 -->
+            <pb facs="tcp:66178:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <p>A Paſtoral Letter Of the Lord CARDINAL Le CAMUS, BISHOP and PRINCE OF GRENOBLE To the CURATS of his DIOCESS; Touching the METHODS they ought to take, and in what Manner they ſhould behave Themſelves to<g ref="char:EOLhyphen"/>wards Their NEW CONVERTS.</p>
+            <p>Faithfully Tranſlated from the Original in <hi>French.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Nath. Thompſon</hi> at the Entrance into the <hi>Old-Spring-Garden</hi> near <hi>Charing-Croſs. Anno Domini</hi> MDCLXXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:66178:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <pb n="1" facs="tcp:66178:2"/>
+            <!-- PDF PAGE 16 -->
+            <p>
+               <hi>ALthough I have already declar'd in Our laſt Synod, the Means you ought to Uſe; and in what Manner you ſhould treat the</hi> New Converts <hi>of my Dioceſs: Nevertheleſs I have thought good to ſignify more particularly to you here, the principal Things which will require your beſt Attention and moſt ſerious Application.</hi>
+            </p>
+            <p n="1">
+               <hi>I.</hi> LEt it be one part of your Duties, to Explicate every <hi>Sunday</hi> the <hi>Goſpel,</hi> or the <hi>Epiſtle</hi> of the Day; having firſt read it diſtinctly in <hi>French,</hi> out of the time of Service: And that you may be the more able to Inſtruct them to their Advantage, apply your ſelves earneſtly to the Study of the Holy Scrip<g ref="char:EOLhyphen"/>tures, making uſe of ſome good <hi>Commentary,</hi> that will Explicate the Text to you; both in the Literal and the Moral Senſe.</p>
+            <p n="2">
+               <hi>II.</hi> Make it your Buſineſs on <hi>Sundays</hi> and <hi>Holy-Days</hi> to Catechize your Pariſhoners by <hi>Queſtion</hi> and <hi>Anſwer;</hi> Obliging your <hi>New-Converts</hi> to bring their Children and Servants: And omit not to ſay Prayers in <hi>French,</hi> both Morning and at Night on <hi>Sundays</hi> and <hi>Holy-Days.</hi>
+            </p>
+            <p n="3">
+               <hi>III.</hi> Have a Care you do not leſſen, by a miſtaken Con<g ref="char:EOLhyphen"/>deſcention, the Holy Doctrine of the <hi>Church,</hi> or diſguiſe the Truths which She propoſes to our Belief, under the ſpecious pretext of making the way Eaſier for the <hi>New-Converts</hi> to enter into our Communion: On the other ſide, it muſt be your equal Care to Teach them Nothing, but thoſe <g ref="char:V">Ʋ</g>ndoubted Truths which are of Faith, and which the Holy Church hath deſided in the Council of <hi>Trent:</hi> You are likewiſe to take heed, that you do not
+<pb n="2" facs="tcp:66178:3"/>
+               <!-- PDF PAGE 17 -->Mix or Confound the School Opinions, with the real Doctrine of the Church.</p>
+            <p n="4">
+               <hi>IV.</hi> Endeavour to <g ref="char:V">Ʋ</g>ndeceive them of the many falſe Opinions and the Prejudices they are poſſeſs'd with againſt the <hi>Roman Catholick Church;</hi> by making them Senſible, that We give to God only the Supream Honour, of a True and Real Adoration; and that We place all our Truſt and Hopes ſolely in the Merits of Jeſus Chriſt, and not in any Pictures or Reliques of Saints; and that it is no part of our Faith, to believe there is any Inhe<g ref="char:EOLhyphen"/>rent Virtue, or particular Bleſſing annex'd to thoſe Pictures or Reliques.</p>
+            <p n="5">
+               <hi>V.</hi> Suffer not any one to Preach <g ref="char:V">Ʋ</g>p, or Maintain in your Pariſhes, any Fabulous or Groundleſs <hi>Miracles;</hi> or that they ſpeak of <hi>Indulgences</hi> in any other Senſe, than the Council of <hi>Trent</hi> hath declar'd them: Let no<g ref="char:EOLhyphen"/>thing be Preach'd by your ſelves, or others, but the Solid and Subſtantial Truths of the Goſpel, in its Natural and Original Purity; Expreſſing it ſtill with all the Clear<g ref="char:EOLhyphen"/>neſs, the ſubject-matter can poſſibly allow.</p>
+            <p n="6">
+               <hi>VI.</hi> Endeavour as much as in you lyes, that every <hi>New-Convert</hi> perform his Duty as a good <hi>Catholick</hi> ought to do: But be ſure you avoid all manner of Violence or Compulſion to them, ſince God admits to his Service only the free and voluntary Acts of a willing Mind: Wherefore you muſt be very Careful you uſe no Threats or <hi>Sharp</hi> Expreſſions in your Sermons or Diſcourſes to them; when you Exhort them to frequent your Churches, or Receive the Sacraments.</p>
+            <p n="7">
+               <hi>VII.</hi> Incline them all you can to aſſiſt daily at the Holy Sacrifice of the <hi>Maſs,</hi> but leave no Spie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Inſpectors
+<pb n="3" facs="tcp:66178:3"/>
+               <!-- PDF PAGE 17 -->at the Church doors, to inform againſt thoſe that come not: And make not too ſevere and rigorous a Diſtinction, betwixt thoſe that have done their Duty, and thoſe that have omitted it.</p>
+            <p n="8">
+               <hi>VIII.</hi> You are never to Adminiſter the Sacraments to them, till you are ſatisfied in your Conſcience, that they are well diſpos'd to receive them; which can never be, till they have declar'd to you, that they do firmly believe all that the Holy <hi>Catholick, Apoſtolick,</hi> and <hi>Roman Church</hi> Believes; and that they will Live and Dye in the Communion of it: Therefore let no Humane Conſide<g ref="char:EOLhyphen"/>ration induce you to give them the Sacraments, till you find in them all the Diſpoſitions requiſite to receive them Worthily.</p>
+            <p n="9">
+               <hi>IX.</hi> You muſt be very Cautious and Prudent in the manner of Examining your Penitents, concerning the Sin of Impurity; Principally in the Confeſſions of Wo<g ref="char:EOLhyphen"/>men, to whom you muſt take Care to ſpeak with ſo much Modeſty, that you may give them no occaſion to believe, that Senſuality or Curioſity, hath any ſhare in the Que<g ref="char:EOLhyphen"/>ſtions you ask them.</p>
+            <p n="10">
+               <hi>X.</hi> You may at firſt abate your <hi>New-Converts</hi> ſome<g ref="char:EOLhyphen"/>thing of the Severity of thoſe <hi>Pennances,</hi> which other<g ref="char:EOLhyphen"/>wiſe their Sins might deſerve, leaſt too rigorous a Beha<g ref="char:EOLhyphen"/>viour towards them, ſhould make them ſtumble at the Threſhhold, and ſo Fright them out of the Way of their Salvation.</p>
+            <p n="11">
+               <hi>XI.</hi> 
+               <g ref="char:V">Ʋ</g>ſe no ſort of Means to any one, either in Sick<g ref="char:EOLhyphen"/>neſs or in Health, to compel them to the Sacraments a<g ref="char:EOLhyphen"/>gainſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Wills Neither Threaten or Inform againſt any body on <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>as occaſion: Avoid likewiſe as much as you
+<pb n="4" facs="tcp:66178:4"/>
+               <!-- PDF PAGE 18 -->can, the giving notice of them to thoſe, who are appointed to Judge and Puniſh them for their Failures on the ſcore of Religion; But reſt your ſelf ſatisfied, in that you have done your Duty, in Exhorting them to Theirs, in the preſence of their Neighbours; Make them ſenſible of the great Advantages they will reap by ſo doing; engage their Relations and Friends to perſuade them not to go out of this World, without the Comfortable Help of the Holy <hi>Viaticum.</hi>
+            </p>
+            <p n="12">
+               <hi>XII.</hi> In caſe any one Dye, having refus'd to receive the Bleſsed Sacrament, let him not be Interr'd in Holy Ground, nor make any publick Prayers for him after his Death. Concern not your ſelves in what manner they uſe the Corps, or where they Bury it, leave That to the Kings Officers, whoſe Buſineſs it is to take Care of it; Thruſt not your ſelves into thoſe Matters, or into any thing elſe that may Alienate them from you, and ſo put you out of a Capacity, of doing their Souls that Service your Function obliges you unto.</p>
+            <p n="13">
+               <hi>XIII.</hi> When they fail in ſending their Children to School or Catechiſm; or when they Eat Meat upon pro<g ref="char:EOLhyphen"/>hibited Days, tell them of it Charitably, but Privately, as a good Paſtor ought to do: And if by your Christian Care and good Advice they mend not their Faults, do not therefore bring them publickly into Trouble, or ſpeak with Contempt or Averſion of them to their Neighbours, but content your ſelf, in giving us an account of thoſe that have not Comply'd with their Duties, that we may in due time apply ſuch Remedies to them, as Charity ſhall ſuggeſt, or the <hi>Holy Ghoſt</hi> ſhall inſpire <g ref="char:V">Ʋ</g>s.</p>
+            <p n="14">
+               <hi>XIV.</hi> Pray to God Almighty, both in Private and in Publick for their true and ſincere Converſion; Edify
+<pb n="5" facs="tcp:66178:4"/>
+               <!-- PDF PAGE 18 -->them by your good Examples, and by your Holy, Chaſte, Charitable, and Diſ-intereſted way of Living; Feed them continually with the wholeſom Food of the Word of God; Oblige them with a Chriſtian and Brotherly Affection in all things, that they ſhall deſire, and You can do for them, either in Relation to their Spiritual or Temporal good.</p>
+            <p>This is the beſt way of Confirming them in our Com<g ref="char:EOLhyphen"/>munion, for as St. <hi>Auguſtin</hi> ſays, <hi>Nothing contributes more to the knowledge of a True Church, than a real practice of the Truths;</hi> The <hi>Evangeliſt</hi> teaches us, <hi>Ejus eſt Evangelium, ubi vivitur ſecundum Evan<g ref="char:EOLhyphen"/>gelium.</hi>
+            </p>
+            <p n="15">
+               <hi>XV.</hi> Put in practice the Advice the Prince of the Apoſtles gives to all Paſtors, which we may call the firſt Rule of <hi>Chriſtianiſm, Feed the Flock of God com<g ref="char:EOLhyphen"/>mitted to your Care, watching over them; not by a forc'd Neceſſity, but by an Affection truly Voluntary: Not by a ſhameful deſire of Gain, but by a Diſ-inte<g ref="char:EOLhyphen"/>reſted Charity:</hi> And as St. <hi>Paul</hi> ſays, <hi>Receive and Uſe with Charity, him that is yet weak in Faith, without running violently into Conteſts and Diſputations with him, 1</hi> Peter, Rom. <hi>14.</hi>
+            </p>
+            <p n="16">
+               <hi>XVI.</hi> Endeavour to follow the Way that St. <hi>Auguſtin</hi> preſcrib'd to a Biſhop of <hi>Carthage,</hi> which was to Act in ſuch like Circumſtances, without Heat, Threats, or Sharpneſs; and to perſuade them in your Exhortations, to fear more the Judgments of God, than the Power of Men: <hi>Non aſperè quantum exiſtimo, non duriter, non modo imperioſo iſta Tollantur; ſed magis docendo quam jubendo; magis monendo quam minando; nè nos <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pſi in noſtra poteſtatè &amp; non Deus in ſuo Ser<g ref="char:EOLhyphen"/>mone time<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur</hi> St. <hi>Aug.</hi> Epiſt. ad <hi>Aurel. Carth.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:66178:5"/>
+               <!-- PDF PAGE 19 -->
+Remember that the Diſeaſes of the Soul, are not to be Cured in a little time; and when they are, it is never done by Conſtraint and Violence, but by the Fervour of Prayers, and by a ſoft and gentle inſinuation of Truth, mix'd with Charity; So that to gain their good Opinion of you, and to induce them to Love the <hi>Holy Catholick Church;</hi> tell them what St. <hi>Auguſtin</hi> told the <hi>Manicheans,</hi> to oblige them kindly to return to their Mother Church: <hi>Let thoſe</hi> (ſays he) <hi>treat you with Rigour, that know not how hard a thing it is, to find out Truth, and to avoid Errour: Let thoſe uſe you with Rigour, that know not how hard it is to overcome the prejudice of an Unhappy Education, and the wild</hi> Chimera <hi>'s of a Mind pre-poſſeſs'd with Errour: Let thoſe treat you with Rigour, that know not how hard it is, to clear the Eye of the Interiour Man, and make him capable of Diſcerning Truth, which is the Sun of the Soul: But let us not uſe at that rate thoſe that are ſeperated from us, not by any Errours they have invented them<g ref="char:EOLhyphen"/>ſelves, but by thoſe of their Fore-fathers: We there<g ref="char:EOLhyphen"/>fore offer up our daily Prayers to Almighty God, that being throughly convinc'd of the falſe Opinions, your Ignorance rather then Malice engag'd you in, he will be graciouſly pleas'd to Inſpire you with the Spirit of Peace, which will admit of no other impreſſions, than thoſe of</hi> Charity; <hi>of no other Intereſt, than that of</hi> Jeſus Chriſt, <hi>and of no other deſires than thoſe of your Salvation,</hi> St. <hi>Aug.</hi> contr. Epiſt. fundum cha. <hi>2.</hi>
+            </p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>I am ever, Your moſt Affectionate, The Cardinal le <hi>CAM<g ref="char:V">Ʋ</g>S.</hi>
+               </signed>
+               <dateline>At <hi>Grenoble</hi> 
+                  <date>the 28 <hi>April</hi> 1687</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:66178:5"/>
+            <!-- PDF PAGE 19 -->
+         </div>
+      </body>
+   </text>
+</TEI>
